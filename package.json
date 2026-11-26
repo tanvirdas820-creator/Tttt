@@ -1,8 +1,0 @@
-{
-  "name": "spark-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Spark AI chat app with a tiny Claude API proxy server",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
